@@ -15,10 +15,17 @@ I am a motivated and detail-oriented pre-final year Computer Science and Enginee
 ---
 
 ### 🏆 Achievements
-- **1st Prize** | Code Maestro, R.M.D. Engineering College (Feb 2024)
-- **1st Prize** | Codera, SSN College of Engineering (Sep 2024)
-- **1st Prize** | She<Codes>, Iamneo (Apr 2024)
-
+- **1st Prize** - Code Maestro, R.M.D. Engineering College (Feb 2024)
+- **1st Prize** - She<Codes>, Iamneo (Apr 2024)
+- **2nd Prize** - She<Codes>, Iamneo (Aug 2024)
+- **1st Prize** - Codera, SSN College of Engineering (Sep 2024)
+- **Winner** - Prompt Engineering Hackathon, TechGig (Jan 2025)
+- **1st Prize** - Invisible IDE, Chennai Institute of Technology (Feb 2025)
+- **2nd Prize** - DSA Coding Event, Rajalakshmi Engineering College (Feb 2025)
+- **1st Prize** - Innovate and Inspire Season 9, K Ramakrishnan College of Engineering (Feb 2025)
+- **1st Prize** - Codestrom, R.M.D. Engineering College (Mar 2025)
+- **1st Prize** - Innovate and Inspire Season 10, K Ramakrishnan College of Engineering (Mar 2025)
+- **1st Prize** - Altruisty Skill Hunt Challenge, Altruisty Pvt Limited (Mar 2025)
 ---
 
 ### 🌟 Certifications
