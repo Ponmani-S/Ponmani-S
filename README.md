@@ -26,6 +26,10 @@ I am a motivated and detail-oriented pre-final year Computer Science and Enginee
 - **1st Prize** - Codestrom, R.M.D. Engineering College (Mar 2025)
 - **1st Prize** - Innovate and Inspire Season 10, K Ramakrishnan College of Engineering (Mar 2025)
 - **1st Prize** - Altruisty Skill Hunt Challenge, Altruisty Pvt Limited (Mar 2025)
+- **1st Prize** - Cosmic Duel, Velammal Institute of Technology (Apr 2025)
+- **1st Prize** - Stellar Queries, Velammal Institute of Technology (Apr 2025)
+- **1st Prize** - Call of Query, Madras Institute of Technology (Apr 2025)
+- **Winner** - Innovate and Inspire, K Ramakrishnan College of Engineering (May 2025)
 ---
 
 ### 🌟 Certifications
